@@ -1,6 +1,7 @@
 ## Quizzler App
 
 Simple Flutter Mobile app that implemented in a part of the Complete 2021 Flutter Development Bootcamp with Dart (https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
 ![](https://raw.githubusercontent.com/Dmytro-Pashko/Quizzler-Flutter-App/master/git_description/screenshot.gif)
 
 ## Getting Started
